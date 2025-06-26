@@ -1,4 +1,4 @@
-# ₿ ÆtherSolo - Solo Bitcoin Mining Pool
+# 📌 ÆtherSolo - Solo Bitcoin Mining Pool
 
 **ÆtherSolo** is a solo Bitcoin mining pool focused on full control, intelligent coordination, and maximum efficiency.
 
